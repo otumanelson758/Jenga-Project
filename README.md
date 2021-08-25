@@ -1,2 +1,2 @@
-# Jenga-Project- Customer Segmentation
+# Customer Segmentation Project
 Data Science Foundation Project
